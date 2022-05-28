@@ -89,7 +89,7 @@ Update to the latest version of npm
    ```
 3. Start the mongo server
     ```sh
-    mongod --dbpath YOUR_PATH
+    mongod --dbpath YOUR_PATH     i have used local database
    ```
 
 ### Important Points
@@ -98,6 +98,8 @@ Update to the latest version of npm
 2. While registring via gmail id, an opt will be generated, for simplicity that opt will now come to your mail(since dummy gmail id's are also accepted) ,therefore opt for all purpose is 1234.
 
 3. For attendence purposes, student has to upload his/her image in upload image section, that image MUST be of .jpg format, otherwise attendence would not be marked.
+
+4. run npm start and python app.py on seperate terminals to make website work fully, face recgnition will work only after app.py file is run 
 
 ## Contact
 Rajat Kapoor - rajatkapoor214@gmail.com
