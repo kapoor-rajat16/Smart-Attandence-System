@@ -24,6 +24,8 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#Running">Running the Project</a></li>
+        <li><a href="#Important Points">Important points to remember while using website</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
@@ -89,6 +91,13 @@ Update to the latest version of npm
     ```sh
     mongod --dbpath YOUR_PATH
    ```
+
+### Important Points
+1. Registration for student or teacher can be done with even non-existing gmail id's, but thing is that it must be a gmail id, any other domain is not accepted.
+
+2. While registring via gmail id, an opt will be generated, for simplicity that opt will now come to your mail(since dummy gmail id's are also accepted) ,therefore opt for all purpose is 1234.
+
+3. For attendence purposes, student has to upload his/her image in upload image section, that image MUST be of .jpg format, otherwise attendence would not be marked.
 
 ## Contact
 Rajat Kapoor - rajatkapoor214@gmail.com

@@ -775,11 +775,8 @@ function notLoggedIn(req, res, next) {
   res.redirect('/user/login');
 }
 
+// for simplicity, right now otp will not go to gmail, but is 1234 for everyone
 function generateOTP() {
-  var otp = Math.random();
-  otp = otp * 1000000;
-  otp = parseInt(otp);
-  console.log(otp);
   return 1234
 }
 
