@@ -95,11 +95,11 @@ Update to the latest version of npm
 ### Important Points
 1. Registration for student or teacher can be done with even non-existing gmail id's, but thing is that it must be a gmail id, any other domain is not accepted.
 
-2. While registring via gmail id, an opt will be generated, for simplicity that opt will now come to your mail(since dummy gmail id's are also accepted) ,therefore opt for all purpose is 1234.
+2. While registring via gmail id, an otp will be generated, for simplicity that otp will now come to your mail(since dummy gmail id's are also accepted) ,therefore otp for all purpose is 1234.
 
 3. For attendence purposes, student has to upload his/her image in upload image section, that image MUST be of .jpg format, otherwise attendence would not be marked.
 
-4. run npm start and python app.py on seperate terminals to make website work fully, face recgnition will work only after app.py file is run 
+4. run, npm start and python app.py on seperate terminals to make website work fully, face recgnition will work only after app.py file will run on seprate terminal, for it see point 2 of runninh the project. 
 
 ## Contact
 Rajat Kapoor - rajatkapoor214@gmail.com
