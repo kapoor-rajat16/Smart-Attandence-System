@@ -87,7 +87,7 @@ Update to the latest version of npm
     cd ./Py-Scripts
       python app.py
    ```
-3. Start the mongo server ( i have used local database )
+3. Start the mongo server ( i have used local mongodb database )
     ```sh
     mongod --dbpath YOUR_PATH    
    ```
