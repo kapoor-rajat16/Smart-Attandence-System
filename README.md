@@ -1,6 +1,6 @@
 <div align="center">
  
-<h1 align="center">Smart Attendence System</h1>
+<h1 align="center">Smart Attandence System</h1>
 
 [![](https://img.shields.io/badge/Made_with-Nodejs-red?style=for-the-badge&logo=node.js)](https://nodejs.org/en/)
 [![](https://img.shields.io/badge/IDE-Visual_Studio_Code-purple?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/  "Visual Studio Code")
@@ -87,9 +87,9 @@ Update to the latest version of npm
     cd ./Py-Scripts
       python app.py
    ```
-3. Start the mongo server
+3. Start the mongo server ( i have used local database )
     ```sh
-    mongod --dbpath YOUR_PATH     i have used local database
+    mongod --dbpath YOUR_PATH    
    ```
 
 ### Important Points
