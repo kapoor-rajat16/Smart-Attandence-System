@@ -99,7 +99,9 @@ Update to the latest version of npm
 
 3. For attendence purposes, student has to upload his/her image in upload image section, that image MUST be of .jpg format, otherwise attendence would not be marked.
 
-4. run, npm start and python app.py on seperate terminals to make website work fully, face recgnition will work only after app.py file will run on seprate terminal, for it see point 2 of running the project. 
+4. run, npm start and python app.py(in Py-Scripts folder) on seperate terminals to make website work fully, face recgnition will work only after app.py file will run on seprate terminal, for it see point 2 of running the project. 
+
+5. Website will run on - localhost:3000 
 
 ## Contact
 Rajat Kapoor - rajatkapoor214@gmail.com
