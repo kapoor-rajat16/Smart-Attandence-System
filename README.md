@@ -106,6 +106,7 @@ Update to the latest version of npm
 6. Some Dummy Accounts, you can login directly from them - 
    Student - 
    a) waren1@gmail.com , password - abc@1
+   
    b) elon@gmail.com , password - abs@1
    
    Teacher - 
