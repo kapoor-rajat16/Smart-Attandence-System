@@ -103,5 +103,14 @@ Update to the latest version of npm
 
 5. Website will run on - localhost:3000 
 
+6. Some Dummy Accounts, you can login directly from them - 
+   Student - 
+   a) waren1@gmail.com , password - abc@1
+   b) elon@gmail.com , password - abs@1
+   
+   Teacher - 
+   a) test_teacher@gmail.com, password - abc@1
+   
+   
 ## Contact
 Rajat Kapoor - rajatkapoor214@gmail.com
